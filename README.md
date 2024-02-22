@@ -1,6 +1,8 @@
-# Build and Deploy a Github-like App | React, MongoDB, Express.js, Passport.js
-Some Features:
+# Build and Deploy a Git_Navigator [Github Like app] | React, MongoDB, Express.js, Passport.js
 
+
+![Screenshot 2024-02-22 163321](https://github.com/Mannu292001/Git_Navigator/assets/107943260/8ae15d4c-888d-4887-9081-4317e8c728d0)
+Some Features:
 -   ⚙️ Tech stack: MERN + TailwindCSS + Github API
 -   🔑 Authentication && Authorization with Passport.js (Github Auth)
 -   👾 Fetch Github User Profiles and Repos
